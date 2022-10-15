@@ -1,0 +1,6 @@
+C:\Users\digdr\Desktop\coding\FCCBlazorShopping\ShopOnlineSolution\ShopOnline.web\obj\Debug\net6.0\ShopOnline.Web.csproj.AssemblyReference.cache
+C:\Users\digdr\Desktop\coding\FCCBlazorShopping\ShopOnlineSolution\ShopOnline.web\obj\Debug\net6.0\ShopOnline.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\digdr\Desktop\coding\FCCBlazorShopping\ShopOnlineSolution\ShopOnline.web\obj\Debug\net6.0\ShopOnline.Web.AssemblyInfoInputs.cache
+C:\Users\digdr\Desktop\coding\FCCBlazorShopping\ShopOnlineSolution\ShopOnline.web\obj\Debug\net6.0\ShopOnline.Web.AssemblyInfo.cs
+C:\Users\digdr\Desktop\coding\FCCBlazorShopping\ShopOnlineSolution\ShopOnline.web\obj\Debug\net6.0\ShopOnline.Web.csproj.CoreCompileInputs.cache
+C:\Users\digdr\Desktop\coding\FCCBlazorShopping\ShopOnlineSolution\ShopOnline.web\obj\Debug\net6.0\ShopOnline.Web.MvcApplicationPartsAssemblyInfo.cache
